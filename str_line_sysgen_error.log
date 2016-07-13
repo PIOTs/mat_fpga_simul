@@ -1,0 +1,27 @@
+--------------------------------- Version Log ----------------------------------
+Version                                 Path
+System Generator 2014.4                 C:/Xilinx/Vivado/2014.4
+Matlab 8.4.0.150421 (R2014b)            C:\Program Files\MATLAB\R2014b
+Vivado 2014.4                           C:/Xilinx/Vivado/2014.4
+--------------------------------------------------------------------------------
+Summary of Errors:
+Error 0001: Internal Error
+     Block: 'str_line/Black Box'
+--------------------------------------------------------------------------------
+
+Error 0001:
+
+Reported by:
+  'str_line/Black Box'
+
+Details:
+An internal error occurred in the Xilinx Blockset Library.
+
+Please report this error to Xilinx (http://support.xilinx.com),
+in as much detail as possible. You may also find immediate help
+in the Answers Database and other online resources at http://support.xilinx.com.
+
+
+Error occurred during "Simulation Terminate".
+
+--------------------------------------------------------------------------------
